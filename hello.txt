@@ -1,1 +1,5 @@
-hello.......
+hello.......git -c filter.lfs.smudge= -c filter.lfs.required=false -c diff.mnemonicprefix=false -c core.quotepath=false -c credential.helper=manager-st clone --branch master --recursive https://github.com/ankitbhavsar1/hello-world.git E:\desktop\yo
+Cloning into 'E:\desktop\yo'...
+warning: templates not found C:\Program Files\Git\share\git-core\templates
+fatal: No url found for submodule path 'test_repo' in .gitmodules
+Completed with errors, see above.
